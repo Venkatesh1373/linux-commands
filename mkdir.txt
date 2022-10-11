@@ -1,0 +1,3 @@
+command:mkdir
+uses: To crteate a new directory
+The command can create multiple directories at once as well as set the permissions for the directories
