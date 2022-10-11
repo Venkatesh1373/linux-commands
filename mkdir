@@ -1,0 +1,3 @@
+command:mkdir
+use:To create a new diectory
+this command can create multiple directoyies at once as well as set the permissions for the dirctories
